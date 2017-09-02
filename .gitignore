@@ -1,0 +1,7 @@
+__pycache__/*
+data/*
+test/*
+.idea/*
+*.png
+*.rar
+test.py
